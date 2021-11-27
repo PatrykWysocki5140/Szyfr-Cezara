@@ -1,0 +1,6 @@
+1. Aplikację należy wypakować z pliku .rar
+2. Korzystając ze ścieżki Szyfr_Cezara\bin\Debug\Szyfr_Cezara.exe możemy uruchomić plik wykonywalny z aplikacją. 
+3. Celem sprawdzenia kodu aplikacji można skorzystać ze ścieżek:
+-Szyfr_Cezara\Szyfr_Cezara.sln - projekt całej aplikacji (program do uruchomienia: Visual Studio)
+-Szyfr_Cezara\Obliczenia.cs - funkcje matematyczne wykorzystane w aplikacji (program do uruchomienia: dowolny edytor tekstu)
+-Szyfr_Cezara\Form1.cs - obiekty tworzące aplikację, główne funkcje wykorzystane przy wizualizacji (program do uruchomienia: dowolny edytor tekstu)
